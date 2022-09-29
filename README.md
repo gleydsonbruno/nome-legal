@@ -1,2 +1,3 @@
 # interruptor claro/escuro
-Teste para saber se tô sabendo usar o github
+(teste) primeiro código 
+interruptor claro/escuro
